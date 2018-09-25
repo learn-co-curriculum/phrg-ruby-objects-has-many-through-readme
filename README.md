@@ -266,4 +266,8 @@ Why associate artists to genre objects *through* songs? By associating songs to 
 
 With our "through association", as long as we have properly associated a song to a given genre and that same song to a given artist, our connection between an artist and his or her genres will automatically follow. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-objects-has-many-through-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-objects-has-many-through-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Ruby Object Relations: Has-Many Through</p>
